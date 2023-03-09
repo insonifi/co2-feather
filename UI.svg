@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/Users/andrejs/Downloads/Cabin_Sketch/ui.png"
+   width="300"
+   height="400"
+   viewBox="0 0 79.374999 105.83333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="UI.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path857" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4448688"
+     inkscape:cx="205.10097"
+     inkscape:cy="225.27347"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1252"
+     inkscape:window-height="943"
+     inkscape:window-x="210"
+     inkscape:window-y="306"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffea00;fill-opacity:1;stroke:none;stroke-width:0.52916673;stroke-dasharray:0.52916673,2.11666692;stroke-miterlimit:4;stroke-dashoffset:0"
+       id="rect32"
+       width="15"
+       height="10"
+       x="57"
+       y="4"
+       ry="0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.52916673;stroke-dasharray:0.52916673,2.11666692;stroke-miterlimit:4;stroke-dashoffset:0"
+       id="rect12"
+       width="68.995819"
+       height="28.99671"
+       x="5.501008"
+       y="5.5026059"
+       ry="7.9081936" />
+    <rect
+       ry="0"
+       y="39"
+       x="57"
+       height="10"
+       width="15"
+       id="rect851"
+       style="fill:#ffea00;fill-opacity:1;stroke:none;stroke-width:0.52916673;stroke-dasharray:0.52916673,2.11666692;stroke-miterlimit:4;stroke-dashoffset:0" />
+    <rect
+       style="fill:#ffea00;fill-opacity:1;stroke:none;stroke-width:0.52916673;stroke-dasharray:0.52916673,2.11666692;stroke-miterlimit:4;stroke-dashoffset:0"
+       id="rect853"
+       width="15"
+       height="10"
+       x="57"
+       y="73"
+       ry="0" />
+    <rect
+       ry="7.9081936"
+       y="40.502602"
+       x="5.501008"
+       height="28.99671"
+       width="68.995819"
+       id="rect14"
+       style="fill:none;stroke:#000000;stroke-width:0.52916673;stroke-dasharray:0.52916673,2.11666692;stroke-miterlimit:4;stroke-dashoffset:0" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.52916673;stroke-dasharray:0.52916673,2.11666692;stroke-miterlimit:4;stroke-dashoffset:0"
+       id="rect16"
+       width="68.995819"
+       height="28.99671"
+       x="5.501008"
+       y="74.502609"
+       ry="7.9081936" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29166999999999987px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52916673;stroke-miterlimit:4;stroke-dasharray:0.52916673,2.11666692;stroke-dashoffset:0"
+       x="59.585728"
+       y="10.570729"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="59.585728"
+         y="10.570729"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166999999999987px;font-family:Chalkboard;-inkscape-font-specification:Chalkboard;stroke-width:0.52916673;stroke-miterlimit:4;stroke-dasharray:0.52916673,2.11666692;stroke-dashoffset:0">ppm</tspan></text>
+    <text
+       id="text24"
+       y="47.409206"
+       x="61.325966"
+       style="font-style:normal;font-weight:normal;font-size:6.34999999999999964px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52916673;stroke-miterlimit:4;stroke-dasharray:0.52916673,2.11666692;stroke-dashoffset:0"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.34999999999999964px;font-family:Chalkboard;-inkscape-font-specification:Chalkboard;stroke-width:0.52916673;stroke-miterlimit:4;stroke-dasharray:0.52916673,2.11666692;stroke-dashoffset:0"
+         y="47.409206"
+         x="61.325966"
+         id="tspan22"
+         sodipodi:role="line">˚C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.76250000000000018px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52916673;stroke-miterlimit:4;stroke-dasharray:0.52916673,2.11666692;stroke-dashoffset:0"
+       x="59.666344"
+       y="80.484367"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="59.666344"
+         y="80.484367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76250000000000018px;font-family:Chalkboard;-inkscape-font-specification:Chalkboard;stroke-width:0.52916673;stroke-miterlimit:4;stroke-dasharray:0.52916673,2.11666692;stroke-dashoffset:0">%rh</tspan></text>
+  </g>
+</svg>
